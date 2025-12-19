@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá, eu sou o William
 
-<!--
-**WilliamMiranda-10/WilliamMiranda-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend Júnior  
+🚀 Node.js | Express | PostgreSQL | JWT  
+📚 Estudando boas práticas e arquitetura de APIs REST
 
-Here are some ideas to get you started:
+### 🔥 Projeto em destaque
+- 🛒 **API E-commerce**
+  - Autenticação com JWT
+  - PostgreSQL
+  - Arquitetura em camadas
+  - CRUD completo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivo
+Conseguir minha primeira vaga como desenvolvedor backend júnior
