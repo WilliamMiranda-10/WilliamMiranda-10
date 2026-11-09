@@ -1,58 +1,37 @@
 ## 👋 Olá, eu sou o William
 
 💻 Desenvolvedor Backend Júnior
-🚀 Node.js | Express | SQL Server | REST APIs
+🚀 Node.js | Express | PostgreSQL | REST APIs
 📚 Estudando arquitetura de software e boas práticas
 
 ---
 
 ## 🔥 Projeto em destaque
 
-### 📝 Todo List Fullstack
+### 📝 Controle de contas
 
-Aplicação completa de gerenciamento de tarefas.
+Aplicação completa de controle financeiro pessoal.
 
 **Frontend**
-
-* Vue 3
-* Vuetify
+💻 Em desenvolvimento...
+* React
 
 **Backend**
 
 * Node.js
 * Express
-* SQL Server
-
-**Funcionalidades**
-
-* CRUD de tarefas
-* Marcar como concluída
-* Filtros de tarefas
-* Barra de progresso
-* Soft delete
-* API REST
-
----
-
-### 🛒 API E-commerce
-
-API REST para gerenciamento de e-commerce.
-
-**Tecnologias**
-
-* Node.js
-* Express
 * PostgreSQL
-* JWT
 
 **Funcionalidades**
 
-* Autenticação com JWT
-* CRUD de produtos
-* CRUD de usuários
-* Arquitetura em camadas
+- Cadastrar, listar, atualizar e excluir contas.
+- Controlar parcelas e vencimentos.
+- Marcar contas como pagas.
+- Consultar resumo financeiro (total, pago e pendente).
+- Validar dados e regras de negócio.
+- Persistir informações no PostgreSQL.
 
----
+
 
 ## 🎯 Objetivo
 
